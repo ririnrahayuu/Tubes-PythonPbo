@@ -2,9 +2,9 @@
 ### INITIATION ###
 ## Story ##
 '''
-1.1 Plot		: permainan pada game ini hanya sebatas tembak-tembakan saja dengan pemain utama (player) adalah seekor kucing. Kucing harus melindungi bentengnya dari serangan tikus-tikus. Dan kucing menggunakan panah untuk menembak tikus-tikus tersebut.
+1.1 Plot		: permainan pada game ini hanya sebatas tembak-tembakan dan melindungi anak ayam dalam bentengnya pada pemain utama (player) adalah seekor ayam. ayam harus melindungi bentengnya dari serangan tikus-tikus. Dan ayam menggunakan panah untuk menembak tikus-tikus tersebut.
 
-1.2 Character	: kucing berperan sebagain player utama dan tikus-tikus adalah musuh dari permainan ini
+1.2 Character	: ayam berperan sebagain player utama dan tikus-tikus adalah musuh dari permainan ini
 
 1.3 Setting		: disini kami menggunakan tema taman untuk objek nya dan waktu yang digunakan pada siang hari agar memudahkan pemain untuk memainkan game tersebut
 
@@ -22,15 +22,15 @@ Berkaitan dengan teknologi yang dapat digunakan pada teknologi ini adalah deskto
 
 ### PRE-PRODUCTION ###
 '''
-1.1 High concept	 	: game ini mendeskripsikan permainan tentang seekor kucing yang melindungi sarangnya dari serangan musuh atau tikus-tikus yang akan menerjang masuk ke sarang kucing, dan jika kalau tikus menerjang kesarang kucing maka kucing akan menembak dengan senjatanya.
+1.1 High concept	 	: game ini mendeskripsikan permainan tentang seekor ayam yang melindungi anaknya dalam sarangnya dari serangan musuh atau tikus-tikus yang akan menerjang masuk ke sarang ayam, dan jika kalau ayam menerjang kesarang ayam maka ayam akan menembak dengan senjatanya.
 
-1.2 Unique vaulue		: game yang membutuhkan keterampilan tangan dan mata, karena kita di latih buat bergerak cepat pada jari dan pada mata kita melatih untuk melihat target disekitar karena pemain harus membuat trategis dalam menembakan karakter tikus secara terbatas untuk melilndungi sarang kucing.
+1.2 Unique vaulue		: game yang membutuhkan keterampilan tangan dan mata, karena kita di latih buat bergerak cepat pada jari dan pada mata kita melatih untuk melihat target disekitar karena pemain harus membuat trategis dalam menembakan karakter tikus secara terbatas untuk melilndungi sarang ayam.
 
 1.3 Genre game		: jenis genre dari game ini adalah puzzle
 
-1.4 Target audience	: game ini dapat diamainkan oleh pemain dengan golongan usia anak-anak hingga orang dewasa
+1.4 Target audience	: game ini dapat dimainkan oleh pemain dengan golongan usia anak-anak hingga orang dewasa
 
-1.5 Story		    	: diawali dari pertengkaran antara kucing dan tikus. jika tikus yang terus-terusan menyerang kucing kali ini kucing tidak mau di serang tikus , karena kucing tidak mau kalah sama tikus-tikus.
+1.5 Story		    	: diawali dari pertengkaran antara ayam dan tikus. jika tikus yang terus-terusan menyerang ayam kali ini ayam tidak mau di serang tikus , karena ayam tidak mau kalah sama tikus-tikus.
 
-1.6 Gameplay		: untuk membantu kucing agar tidak terus-terusan d serpang sarangnya oleh tikus-tikus, dengan cara kucing menembak tikus agar tikus tidak menyerang sarangnya. Hanya saja, bentuk pertahana tikus menyerang sarang dari kucing secara banyakan (bergolongan). Permainan perlu berstrategi dalam menembak karakter tikus agar tikus tidak menerobos masuk menyerang sarang dari kucing.
+1.6 Gameplay		: untuk membantu ayam agar tidak terus-terusan di serang sarangnya oleh tikus-tikus, dengan cara ayang menembak tikus agar tikus tidak menyerang sarangnya. Hanya saja, bentuk pertahana tikus menyerang sarang dari kucing secara banyakan (bergolongan). Permainan perlu berstrategi dalam menembak karakter tikus agar tikus tidak menerobos masuk menyerang sarang dari kucing.
 '''
